@@ -1,0 +1,23 @@
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\bin\Debug\net5.0-windows\Twitter towers.exe
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\bin\Debug\net5.0-windows\Twitter towers.deps.json
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\bin\Debug\net5.0-windows\Twitter towers.runtimeconfig.json
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\bin\Debug\net5.0-windows\Twitter towers.runtimeconfig.dev.json
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\bin\Debug\net5.0-windows\Twitter towers.dll
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\bin\Debug\net5.0-windows\ref\Twitter towers.dll
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\bin\Debug\net5.0-windows\Twitter towers.pdb
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.csproj.AssemblyReference.cache
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter_towers.Form1.resources
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.csproj.GenerateResource.cache
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.AssemblyInfoInputs.cache
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.AssemblyInfo.cs
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.csproj.CoreCompileInputs.cache
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.dll
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\ref\Twitter towers.dll
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.pdb
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter towers.genruntimeconfig.cache
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter_towers.Form3.resources
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter_towers.Form2rectangular.resources
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter_towers.Form2triangle.resources
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter_towers.resultRectangular.resources
+C:\Users\roni1\Desktop\פרויקט הדסים\Twitter towers\Twitter towers\obj\Debug\net5.0-windows\Twitter_towers.resulttrinagle.resources
